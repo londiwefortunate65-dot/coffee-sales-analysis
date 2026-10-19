@@ -22,3 +22,14 @@ This project analyzes coffee sales data using MySQL for data analysis and Tablea
 
 ## Project Goal
 To turn coffee sales data into meaningful insights that can support business decisions and improve understanding of sales performance.
+## Tableau Dashboard
+
+Explore the interactive Coffee Sales Dashboard created in Tableau Public.
+
+**[View Interactive Dashboard]([https://public.tableau.com/app/profile/londiwe.fortunate/viz/coffee_sales_17924122632790/coffee_sales_dashboard)**]
+
+The dashboard explores:
+- Coffee sales trends by year and month
+- Customer purchasing patterns
+- Sales by coffee type
+- Revenue and cost performance
