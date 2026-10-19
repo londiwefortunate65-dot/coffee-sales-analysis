@@ -35,7 +35,10 @@ Explore the interactive Coffee Sales Dashboard built using Tableau Public.
 - Sales performance by coffee type.
 - Revenue and cost analysis.
 - Yearly sales comparison for 2024 and 2025.
-
-
-
 - Revenue and cost performance
+
+- ### Dashboard Preview
+
+![Coffee Sales Dashboard](coffee-sales-dashboard.png)
+
+[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/londiwe.fortunate/viz/coffee_sales_17924122632790/coffee_sales_dashboard)
